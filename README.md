@@ -9,7 +9,7 @@ Mattis Auto Wash:
  Car values must subtract and equal total cars entered.  Input X values only for 1st shift.
  Total amount to be deposited is displayed at the bottom of the form.  
 
-Tax Rate Calculator: 
+Tax Rate Calculator (rar file is complete with installed packages): 
 
  Description: Application that calculates federal income tax based 
  on four different tax schedules. Project purpose is to demonstrate unit-testing 
